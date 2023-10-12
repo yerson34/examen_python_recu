@@ -2,9 +2,9 @@
 1. como primer paso deberan forkear el repositorio del examen
    > a traves del navegador de github buscar el ususario `hackanonimous` en repositorios ubicarse en el repo `examen_python_recu` una vez echo esto deberan forkear el proyecto haciendo click en fork
 
+seguir las instruciones y hacer el fork
 ![Alt text](image.png)
 
-seguir las instruciones y hacer el fork
 2. deveran crear un nuevo entorno virtual y activarlo
    ##### Creando el entorno virtual
    ```bash
